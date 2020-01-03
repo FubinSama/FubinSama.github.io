@@ -1,10 +1,12 @@
-# 安装ArchLinux
+---
+layout: post
+title: Arch linux的一次安装记录
+---
 
-- [安装ArchLinux](#安装archlinux)
-  - [安装步骤](#安装步骤)
-  - [意外处理](#意外处理)
-    - [因为强拔u盘时导致超级块损坏时的修复方法](#因为强拔u盘时导致超级块损坏时的修复方法)
-    - [Linux访问windows磁盘出现&quot;Error mounting /dev/sda2 at/media&quot;](#linux访问windows磁盘出现quoterror-mounting-devsda2-atmediaquot)
+- [安装步骤](#安装步骤)
+- [意外处理](#意外处理)
+  - [因为强拔u盘时导致超级块损坏时的修复方法](#因为强拔u盘时导致超级块损坏时的修复方法)
+  - [Linux访问windows磁盘出现&quot;Error mounting /dev/sda2 at/media&quot;](#linux访问windows磁盘出现quoterror-mounting-devsda2-atmediaquot)
 
 ***
 
