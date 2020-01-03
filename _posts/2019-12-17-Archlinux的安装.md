@@ -201,7 +201,7 @@ title: Arch linux的一次安装记录
 
 25. 安装中文字体：
 
-    ```sh{class=line-numbers}
+    ```sh
     pacman -Ss adobe han #查看adobe的开源汉字
     pacman -S community/adobe-source-han-sans-cn-fonts
     pacman -S community/adobe-source-han-sans-tw-fonts
